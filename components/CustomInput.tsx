@@ -1,4 +1,4 @@
-import { Input } from "postcss";
+import { Input } from "@/components/ui/input";
 import { FormControl, FormField, FormLabel, FormMessage } from "./ui/form";
 import { Control, FieldPath } from "react-hook-form";
 import { z } from "zod";
